@@ -1,0 +1,19 @@
+.p-background {
+    background-color: hsl(348, 95%, 86%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
